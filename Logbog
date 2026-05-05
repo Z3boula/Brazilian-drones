@@ -11,3 +11,9 @@ Efter at have fundet vores problemstilling brugte vi en evighed på at få pytho
 Mandag 4/5
 
 Idag har vi haft nogle problemer med selve dronen. Den gad ikke at tilslutte sig, og én af propellerne virker ikke optimalt.
+Dog fik vi en ny drone. 
+Efter prøvede vi at få dronen tilkoblet til python da vi førhen ikke kunne. Det havde vi stadig ingen hæld med. Derfor er vi beyndt på et flowchart der skal vise hvordan dronen skal programmeres.
+
+Derefter har vi tænkt at få dronen til at udregne længden til objektet den skal "rede"/ få ned. Det har vi tænkt at gøre ved at teste hvor langt dronen kan flyve væk fra computeren uden at miste forbindelse, da vi har oplevet problemer med signalet, når  vi flyver for langt med dronen via. telefon.
+Vi tænker at dronen skal regne længden ud før den flyver. Hvis objektet ligger længere end "x" meter så får vi dronen til at indikere det på en eller anden måde.
+
