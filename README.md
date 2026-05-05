@@ -12,5 +12,7 @@ https://miro.com/app/board/uXjVHb9N-U4=/?share_link_id=181904767848
 Problemstilling: Vi mennesker, er ikke spor høje, (undtagen mads han siger, han er 196) derfor har vi tænkt at vi vha. af vores drone skal kunne få "nogle"/noget ned fra et højt sted vha. vores drone som vi skal programere
 
 
+Da vi har haft problemer med python (og dronen), har vi indtilvidre  lavet et simpelt flowchart der kan give os en ide til hvad vi skal arbejde hen imod når vi får python til at virke.
+
 
 
