@@ -15,4 +15,5 @@ Problemstilling: Vi mennesker, er ikke spor høje, (undtagen mads han siger, han
 Da vi har haft problemer med python (og dronen), har vi indtilvidre  lavet et simpelt flowchart der kan give os en ide til hvad vi skal arbejde hen imod når vi får python til at virke.
 
 
+<img width="584" height="823" alt="image" src="https://github.com/user-attachments/assets/472f2d8d-327c-4a6b-ac13-aa372a3e85e8" />
 
