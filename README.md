@@ -30,7 +30,7 @@ tello.streamon()
 frame_reader = tello.get_frame_read()
 
 flying = False
-distance = 50  # cm per keypress — change this!
+distance = 50  
 
 try:
     while True:
@@ -65,7 +65,7 @@ try:
         elif key == ord('a') and flying:  tello.rotate_counter_clockwise(45)
         elif key == ord('d') and flying:  tello.rotate_clockwise(45)
 
-        # adjust distance on the fly
+        
         elif key == ord('+'):  distance = min(distance + 10, 500)
         elif key == ord('-'):  distance = max(distance - 10, 20)
 
