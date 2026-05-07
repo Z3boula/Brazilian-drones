@@ -17,6 +17,9 @@ Da vi har haft problemer med python (og dronen), har vi indtilvidre  lavet et si
 
 <img width="584" height="823" alt="image" src="https://github.com/user-attachments/assets/472f2d8d-327c-4a6b-ac13-aa372a3e85e8" />
 
+Torsdag 7. Maj:
+Idag fik vi endelig dronen til at fungere!
+Idag fik vi dronen til at flyve op og ned samt dreje til siderne. Der er stadig få problemer med at få dronen til at dreje flyve frem og tilbage, men det skal vi få fixet. Either way kom vi langt idag! 
 
 ```Py
 from djitellopy import Tello
