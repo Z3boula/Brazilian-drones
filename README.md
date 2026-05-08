@@ -87,3 +87,5 @@ Præsentationslag- I præsentationslagen har vi vores input som er "SPACEBAR" fo
 Logiklag- Den foretager logiske beregninger, ved at regne ud hvor langt den skal hen til dens punkt. Vores drone kan hente informationer og data fra præsentationslaget, den kan også hente fra selve datalaget som der laver bergeningerne.
 
 Datalag- Vores datalag opbevarer data fra vores drone, og man kan også søge i alt vores data fordi den går igennem alt vores data. Den kan sende information til logiklaget så den ved hvilken data den skal bruge
+
+<img width="1090" height="428" alt="image" src="https://github.com/user-attachments/assets/1ef6391c-af41-4a08-ae2a-f045849c65a2" />
