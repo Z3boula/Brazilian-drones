@@ -79,3 +79,11 @@ finally:
     tello.end()
     cv2.destroyAllWindows()
 ```
+
+### 3 Lags modellen:
+
+Præsentationslag- I præsentationslagen har vi vores input som er "SPACEBAR" for at lette, "A og D" til at rotere, Pil tasterne for at ændre højden. Ift. Grafik er det meget blåt i kameraet, men man kan godt tage billeder fra computeren. Vores drone kan regne ud hvor langt den skal hen til dens punkt og hvis den ikke kan regne ud så stopper den bare med at fungere.
+
+Logiklag- Den foretager logiske beregninger, ved at regne ud hvor langt den skal hen til dens punkt. Vores drone kan hente informationer og data fra præsentationslaget, den kan også hente fra selve datalaget som der laver bergeningerne.
+
+Datalag- Vores datalag opbevarer data fra vores drone, og man kan også søge i alt vores data fordi den går igennem alt vores data. Den kan sende information til logiklaget så den ved hvilken data den skal bruge
