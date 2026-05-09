@@ -89,3 +89,8 @@ Logiklag- Den foretager logiske beregninger, ved at regne ud hvor langt den skal
 Datalag- Vores datalag opbevarer data fra vores drone, og man kan også søge i alt vores data fordi den går igennem alt vores data. Den kan sende information til logiklaget så den ved hvilken data den skal bruge
 
 <img width="1090" height="428" alt="image" src="https://github.com/user-attachments/assets/1ef6391c-af41-4a08-ae2a-f045849c65a2" />
+
+Think aloud test:
+Da vi har tænkt os at dronen skal lave det meste af arbejded skal brugeren jo stadig finde ud af at kommunikere med dronen.
+Derfor har vi tænkt at vi skal lave en user-interface (UI) hvor man kan give afstande osv. Med det har vi tænkt os at lave et simelpt og blankt UI og se hvor brugeren vil putte x-, y- og z-koordinater/længder.
+Det er ikke komlekst men det er simpelt og det virker.
